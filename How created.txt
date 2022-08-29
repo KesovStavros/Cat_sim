@@ -1,0 +1,6 @@
+Игра создана на sketchware 
+
+Создание заняло : 3 часа 18 минут
+
+Использовалось:
+Button, textview, linear, editext, imageview. 
